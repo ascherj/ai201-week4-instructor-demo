@@ -1,0 +1,12 @@
+# AI 201 — Week 4: AI Safety & Guardrails
+# Install with: pip install -r requirements.txt
+
+# LLM client (OpenAI-compatible, used for OpenRouter)
+openai>=1.30.0
+
+# Jupyter notebook interface
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Environment variable loading
+python-dotenv>=1.0.0
