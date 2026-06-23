@@ -17,7 +17,7 @@ import os
 import json
 from openai import OpenAI
 
-DEFAULT_MODEL = "meta-llama/llama-3.1-8b-instruct:free"
+DEFAULT_MODEL = "openai/gpt-oss-20b:free"
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 
 # The schema the LLM filter expects back from the model.
